@@ -14,7 +14,7 @@ import re
 from datetime import datetime, timedelta
 
 # 导入常量并重命名
-from idcard import constant as const
+import constant as const
 
 
 class IdNumber(str):

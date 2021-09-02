@@ -9,6 +9,7 @@
     常量文件
 '''
 
+
 # 客户端 url
 USER_LOGIN_URL = 'https://api3.kouling.cn:14000/ringle/onekey/100/'        # 客户端登录
 AUTH_REQ_URL = 'https://api3.kouling.cn:14000/ringle/user/140/'            # 人工实名认证
